@@ -1,9 +1,9 @@
 # FlightManagementApplication
 
-✈️ Flight Management Application
+# ✈️ Flight Management Application
 This is a Spring Boot-based Flight Management System developed in Java, designed to manage flight operations such as flight scheduling, passenger bookings, and airport data management.
 
-🧩 Features
+# 🧩 Features
 Flight Management: Add, update, or remove flights.
 
 Airport Management: Store and manage airport information.
@@ -16,7 +16,7 @@ Flight Scheduling: Assign flights to schedules and manage flight timings.
 
 Scheduled Flight: View and update scheduled flights with availability status.
 
-🏗️ Tech Stack
+# 🏗️ Tech Stack
 Java 17+
 
 Spring Boot
@@ -27,7 +27,7 @@ H2 / MySQL (configurable)
 
 Maven
 
-📦 Entities
+# 📦 Entities
 Flight
 
 Airport
@@ -40,7 +40,7 @@ Schedule
 
 ScheduledFlight
 
-▶️ Running the Application
+# ▶️ Running the Application
 Clone the repository
 
 Run the application using:
