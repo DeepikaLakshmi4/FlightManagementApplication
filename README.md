@@ -1,6 +1,5 @@
-# FlightManagementApplication
+# ✈️ FlightManagementApplication
 
-# ✈️ Flight Management Application
 This is a Spring Boot-based Flight Management System developed in Java, designed to manage flight operations such as flight scheduling, passenger bookings, and airport data management.
 
 # 🧩 Features
